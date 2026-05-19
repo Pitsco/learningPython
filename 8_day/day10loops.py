@@ -18,5 +18,3 @@ print(num)
 
 language_counts = {}
 
-for country in countries_data:
-    
